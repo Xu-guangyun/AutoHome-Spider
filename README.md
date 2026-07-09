@@ -1,6 +1,6 @@
 # AutoHome Spider — 汽车之家车型数据采集
 
-采集[汽车之家](https://www.autohome.com.cn/)指定级别车型的**车系名称、口碑评分、指导价区间**，并输出多种排序的 CSV 文件。
+采集[汽车之家](https://www.autohome.com.cn/)中型新能源SUV的**车系名称、口碑评分、指导价区间**，并输出多种排序的 CSV 文件。
 
 ## 环境配置
 
